@@ -1,0 +1,51 @@
+.App{
+  text-align: center;
+  background-color: rgb(19, 17, 17);
+  color: azure;
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 50%;
+  position: relative;
+  border-radius: 20px;
+  left: 25%;
+  
+}
+body{
+  background-color: royalblue;
+}
+input{
+  padding: 4px;
+  margin-right: 8px;
+  border-radius: 15px;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 1px;
+}
+center{
+  color: red;
+
+}
+.list{
+  display: flex;
+  justify-content: space-around;
+  color: yellow;
+}
+ul{
+  list-style: none;
+  
+
+}
+li{
+  margin: 12px 0;;
+
+}
+.delete-Item{
+font-size: 15px;
+margin-left: 8px;
+background-color: brown;
+}
+.appl{
+  background-color:rgb(78, 150, 243);
+  margin: 12px 0;;
+
+}
